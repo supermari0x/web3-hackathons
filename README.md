@@ -52,6 +52,7 @@ This is a curated list of web3 hackathons happening around the world.
 
   * [Hackathon Anywhere](https://www.hackathon.com/)
   * [Online Eventbrite Hackathons](https://www.eventbrite.co.uk/d/online/hackathon/)
+  * [TAIKAI](https://www.taikai.network/)
   * [Dora Hacks](https://dorahacks.io/)
   * [Buildbox](https://app.buidlbox.io/)
   * [ETH Global](https://ethglobal.com/events/hackathons)
